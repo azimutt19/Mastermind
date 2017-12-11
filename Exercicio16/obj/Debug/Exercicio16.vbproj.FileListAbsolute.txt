@@ -1,0 +1,27 @@
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.exe.config
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.exe
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.pdb
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.xml
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.vbprojResolveAssemblyReference.cache
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.Form1.resources
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.Resources.resources
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.vbproj.GenerateResource.Cache
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.exe
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.xml
+C:\Users\PROGINF\Desktop\visual basi fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.pdb
+F:\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.exe.config
+F:\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.exe
+F:\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.xml
+F:\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.pdb
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.exe.config
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.exe
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.pdb
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\bin\Debug\Exercicio16.xml
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.vbprojResolveAssemblyReference.cache
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.Form1.resources
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.Resources.resources
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.vbproj.GenerateResource.Cache
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.vbproj.CoreCompileInputs.cache
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.exe
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.xml
+C:\Users\Pezinho\Desktop\Curso de Programação + Estágio\Curso de Programacao\Isabel Alemão\modulo 23\visual basic fichas\Exercicio16\Exercicio16\obj\Debug\Exercicio16.pdb
